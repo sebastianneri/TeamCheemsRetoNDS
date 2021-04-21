@@ -14,7 +14,7 @@ de nuestro repositorio es la prevención y detección del fraude crediticio.
 
 ## Integrantes
 
--   [Adrián Ferrer](link a su github) - [correo](mailto:correo)
+-   [Adrián Ferrer](https://github.com/AdrianFO-16) - [aafo1416@gmail.com](mailto:correo)
 -   [Aldo Sandoval](link a su github) - [correo](mailto:correo)
 -   [Emiliano Padilla](https://github.com/ephetpv) - [emilianopadilla03\@gmail.com](mailto:emilianopadilla03@gmail.com)
 -   [Sebastián Neri](link a su github) - [correo](mailto:correo)
