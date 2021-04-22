@@ -6,7 +6,7 @@
 ## Descripción
 
 Este repositorio contiene los archivos referentes al proyecto para el HackMx del **equipo 31**. El reto elegido es el propuesto por NDS, por lo que el tema principal
-de nuestro repositorio es la prevención y detección del fraude crediticio.
+de nuestro repositorio es la prevención y detección del fraude en el e-commerce.
 
 ## Estructura del proyecto
 
