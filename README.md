@@ -10,7 +10,7 @@ de nuestro repositorio es la prevención y detección del fraude crediticio.
 
 ## Estructura del proyecto
 
--   Los datos que se pretender utilizar se encuentran [aquí](https://www.kaggle.com/kartik2112/fraud-detection). 
+-   Los datos que se pretenden utilizar se encuentran [aquí](https://www.kaggle.com/kartik2112/fraud-detection). 
 
 -   El archivo `Inv_Fraude.pdf` contiene la investigación y enfoque tomado para la realización de nuestro prototipo y forma parte de la primer entrega.
 
