@@ -14,6 +14,8 @@ de nuestro repositorio es la prevención y detección del fraude en el e-commerc
 
 -   El archivo `Inv_Fraude.pdf` contiene la investigación y enfoque tomado para la realización de nuestro prototipo y forma parte de la primer entrega.
 
+-   El archivo `ModeloFinancieroBenchmark_E2.ipynb` contiene el primer avance en código formando parte de la segunda entrega.
+
 ## Integrantes
 
 -   [Adrián Ferrer](https://github.com/AdrianFO-16) - [aafo1416@gmail.com](mailto:correo)
