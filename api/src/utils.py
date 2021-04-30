@@ -3,7 +3,6 @@ from flask import jsonify, request
 import datetime
 from functools import wraps
 from security.admins import db
-from os import getcwd
 
 """
 def get_params(args, token=False):
