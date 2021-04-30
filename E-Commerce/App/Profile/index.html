@@ -14,19 +14,23 @@
             <aside class="col-3" style="background-color:blue;">
                 <div class="d-flex w-100 h-25 justify-content-center flex-wrap mt-5">
                     <div class="d-flex w-100 h-25 justify-content-center align-items-end flex-wrap">
-                        <h2 class="d-flex w-100 justify-content-center">User Name</h2>
-                        <h2 class="d-flex w-100 justify-content-center">Name</h2>
-                        <p class="m-2">Gender</p>
-                        <p class="m-2">Age</p>
-                        <p class="m-2">Coordinates</p>
-                        <p class="d-flex m-2 w-100 justify-content-center"><a href="" class="">Log Out</a></p>
+                        <h2 class="d-flex w-100 justify-content-center" id="full_name">Name</h2>
+                        <h2 class="d-flex w-100 justify-content-center" id="user_name">User Name</h2>
+                        <p class="m-2" id="gender">Gender</p>
+                        <p class="m-2" id="age">Age</p>
+                        <p class="m-2" id="coordinates">Coordinates</p>
+                        <p class="d-flex m-2 w-100 justify-content-center"><a href="">Nueva transacción</a></p>
+                        <p class="d-flex m-2 w-100 justify-content-center"><a href="../Log-In/index.html" class="">Cerrar Sesión</a></p>
                     </div>
                 </div>
             </aside>
     
             <section class="col-9 p-3" style="background-color: aqua;">
                 <div class="h-100">
-                    <div class="row h-100" style="overflow:scroll; max-height:800px; background-color: brown;">
+                    <div class="h-20">
+                        <h1 class="d-flex justify-content-center">Transacciones</h1>
+                    </div>
+                    <div class="row transactions-container" style="overflow:scroll;">
                         <div id="transactions">
                             <ul class="col p-0 m-0" id="transactions-list">
                                 <li class="row m-4" style="background-color: white;">
@@ -45,5 +49,6 @@
         </div>
     </main>
 </body>
-<script src="./main.js"></script>
+<script src="./main.js" type="module"></script>
+<script src="./Transactions.js" type="module"></script>
 </html>
